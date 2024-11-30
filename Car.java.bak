@@ -1,0 +1,7 @@
+class Car extends Vehicle
+{
+  public int getCharcter()
+  {
+    return 'a';
+  }
+}

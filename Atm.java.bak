@@ -1,0 +1,7 @@
+abstract class Atm
+{
+  public abstract void withdraw(int amount,int pwd);
+  public abstract void deposite(int amount,int pwd);
+  public abstract void balanceEnquiry(int pwd);
+  public abstract void changePwd(int pwd,int newpwd);
+}

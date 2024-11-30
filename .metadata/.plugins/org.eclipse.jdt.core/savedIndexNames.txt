@@ -1,0 +1,25 @@
+INDEX VERSION 1.131+C:\java-development\programs\session-1\ABSTACTION\.metadata\.plugins\org.eclipse.jdt.core
+4046700090.index
+1225008361.index
+1385135913.index
+279924269.index
+3497150627.index
+2186899505.index
+3145179905.index
+1818320769.index
+1865797976.index
+904117871.index
+1171879637.index
+4204439603.index
+3478330368.index
+1580342301.index
+4242768837.index
+3048885576.index
+2738965701.index
+38979144.index
+2463725861.index
+3083220463.index
+4251960950.index
+1957722363.index
+4099476031.index
+3366033592.index

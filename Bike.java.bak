@@ -1,0 +1,23 @@
+class Bike extends Vehicle
+{
+  public int getNoOfWheels()
+  {
+    return 34;
+  }
+  public double getPrice()
+  {
+    return 37;
+  }
+  public String getName()
+  {
+	return "rajesh";
+  }
+  public static void main(String[] args)
+  {
+    Vehicle v = new Bike();
+	Bike b = (Bike)v;
+    System.out.println(b.getNoOfWheels());
+    System.out.println(b.getPrice());
+	System.out.println(b.getName());
+  }
+}

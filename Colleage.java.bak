@@ -1,0 +1,8 @@
+interface Colleage
+{
+  void getAdd();
+  void cancelAdd();
+  void suspend();
+  void backlogs();
+  void apology();
+}
